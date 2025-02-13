@@ -1,0 +1,5 @@
+1. The two statements are not exactly the same. The first one clips the stations to within the counties, and the second one clips the counties to within the stations. You would only use the first one because d.stations is point data, however if they were both area data, you could use either depending on what you needed it for. 
+
+2. I found this lab a lot more challenging than I expected. I found it difficult to remember a lot of syntax and had to look many thing up to remember the phrasing or syntax for them.
+
+3. I found the third task challenging and fun, and I think more logic-based or similar problems would be enjoyable.
